@@ -1,0 +1,59 @@
+{
+  "website":{
+    "title": "Greg's Site"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Contact"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "Arhitect, Developer, Director, Cyclist, general Geek.  I enjoy coding and discovering technology, riding my bikes and enjoying time with my family."
+  },
+  "skills":{
+    "my_skills": "Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "specialized": "Specialized.com is an API driven site for one of the largest and best bicycle brands in the world.",
+    "jalpc": "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices.",
+    "angularjs": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well.",
+    "rsser": "Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually."
+  },
+  "career":{
+    "my_career": "Career Experience",
+    "specialized": "Specialized Bicycle Components, Inc.",
+    "specialized_des": "Director / Architect and Developer for Specialized Bicycles. With a team of 7, responsible for all .com, internal and other customer and internal facing tools and sites. ",
+    "specialized_date": "Nov 2010 - Current",
+    "specialized_job": "Director of Technology",
+    "speaktech": "speakTECH",
+    "speaktech_des": "Development Manager, Solutions Architect and Sr Developer for top tech consulting firm. Provided best in class solutions for companies in industries varying from Entertainment to Aerospace to Insurance.",
+    "speaktech_date": "Jun 2007 - Nov 2010",
+    "speaktech_job": "Dev Manager/Architect/Developer",
+    "meggitt": "Meggitt Aerospace Equipment",
+    "meggitt_des": "Joined as part of a 2-year project building a Business Intelligence Solution for consolidating reporting and vision from 16 independent aerospace companies.",
+    "meggitt_date": "Jan 2005 - Jun 2007",
+    "meggitt_job": "Sr Developer",
+    "universal": "NBC Universal",
+    "universal_des": "Lead developer for team of developers supporting NBC Universal Theme Parks as well as TV and Film.",
+    "universal_date": "Aug 2010 - Jan 2005",
+    "universal_job": "Sr Developer", 
+    "prior": "Various IT Experience", 
+    "prior_des": "Various IT/Development positions which served as stepping stones and ladders to climb. Optical Industry, Emergency Responders, Bugle Boy Jeans etc.", 
+    "prior_date": "Jan 1992 - Aug 2000",
+    "prior_job": "Developer"
+  },
+  "blog":{
+    "my_blog": "Blog"
+  },
+  "link":{
+    "link": "Contact",
+    "view": "views"
+  }
+
+}
