@@ -45,7 +45,7 @@ project:
     name: 'Specialized.com'
     url: 'https://www.specialized.com'
     img: 'static/img/landing/specialized-logo.png'
-  jalpc:
+  salesforce:
     name: 'Jalpc'
     url: '/Jack614/jalpc_jekyll_theme'
     img: 'static/img/landing/jekyll.png'
@@ -78,8 +78,8 @@ changyan:
   # appid: cysfY7ULn
   # conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+#  name: jalpc
+#  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # share
 #bshare:
@@ -90,8 +90,8 @@ disqus:
 #  uuid: 317acca9ef9255b934e46371e471431d
 
 # google analytics
-ga:
-  id: UA-73784599-1
+#ga:
+#  id: UA-73784599-1
 
 # Build settings
 encoding: "utf-8"
