@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Initial Website Design"
+title:  "Specialized Bicycles Website"
 date:   2016-08-21
-desc: "First Jekyll Site"
-keywords: "Jekyll Site"
+desc: "The building of Specialized.com"
+keywords: "Specialized Node.js Site"
 categories: [HTML]
 tags: [Ionic]
 icon: icon-phone-gap
